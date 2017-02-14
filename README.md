@@ -2,7 +2,7 @@
 
 Content popper using AR based marker recognition
  
- ## **Hardware**
+## **Hardware**
  
 Smart Phone with camera
 
