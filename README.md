@@ -10,3 +10,6 @@ Smart Phone with camera
 
 Pop any kind of 3D image when an AR marker is detected
 
+## **Demo**
+
+Works with browser, utlizes Mobile's camera
